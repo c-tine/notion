@@ -28,20 +28,20 @@ body{
 }
 
 .days {
-  background: #f7a2a1;
+  background: #EF2F3C;
 }
 
 .hours {
-  background: #f8af86;
+  background: #eeeeee;
   color: #183059;
 }
 
 .minutes {
-  background: #fabb6b;
+  background: #276FBF;
 }
 
 .seconds {
-  background: #fbc851;
+  background: #F0A202;
 }
 
 .numbers {
@@ -103,7 +103,7 @@ body{
 </body>
 <script>
     const year = new Date().getFullYear();
-const myDate = new Date('Jun 30, 2024 00:00:00');
+const myDate = new Date('Oct 15, 2024 00:00:00');
 console.log(myDate);
 
 // countdown
